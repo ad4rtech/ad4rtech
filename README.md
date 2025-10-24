@@ -61,14 +61,14 @@
 ## How to Reach Me 📬
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fidel-adar" target="_blank" style="margin-right: 15px;">
-    <img src="https://img.shields.io/badge/LinkedIn-Fidel_Adar-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/fidel-adar" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Fidel_Adar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/ad4rtech" target="_blank" style="margin-right: 15px;">
-    <img src="https://img.shields.io/badge/GitHub-ad4rtech-black?style=flat-square&logo=github" alt="GitHub" />
+  <a href="https://github.com/ad4rtech" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/GitHub-ad4rtech-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:fideladar.ogw@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-fideladar%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:fideladar.ogw@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-fideladar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -149,7 +149,7 @@
 ## 📝 My Blog
 
 I share insights on **web development** and **networking fundamentals** to inspire and guide other tech learners.  
-[![Medium](https://img.shields.io/badge/Read_on_Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@adarfidel.ogw)
+[![Medium](https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@adarfidel.ogw)
 
 ---
 
