@@ -1,6 +1,6 @@
 # Hi there, I'm Fidel Adar! 👋
 
-![Banner Image](HelloWorldMagnet.png)
+![Banner Image](Hello World Magnet.png)
 
 ## About Me 🚀
 
